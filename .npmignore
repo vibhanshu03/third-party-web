@@ -3,7 +3,9 @@ bin/
 sql/
 .tmp/
 .github/
+
 www/
+
 
 *.log
 *.png
